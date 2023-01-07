@@ -3,7 +3,7 @@ package chap_01;
 
 import java.sql.SQLOutput;
 
-public class _02_DataTypes {
+public class  _02_DataTypes {
     public static void main(String[] args) { //psvm <- public static void main 단축키
         System.out.println("HelloWorld"); //sout <- System.ouy.println() 단축키
         System.out.println("안녕하세요?");  //문자열
