@@ -1,7 +1,7 @@
 package chap_03;
 
 public class _03_StringCompare {
-    public static void main(String[] args) {
+    public static void main(String[] args)  {
         // 문자열 비교
         String s1 = "Java";
         String s2 = "Phython";
