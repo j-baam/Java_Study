@@ -1,8 +1,6 @@
 // 문자열
 package chap_03;
 
-import java.util.Locale;
-
 public class _01_String1 {
     public static void main(String[] args) {
         String s = "I like Java and Python and C.";
