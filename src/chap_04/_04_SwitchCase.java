@@ -12,7 +12,7 @@ public class _04_SwitchCase {
 
         int ranking = 1; // 1등
         if (ranking == 1) {
-            System.out.println("전액 장학금");
+            System.out.println("전액 장학금" );
         }
 
     }
