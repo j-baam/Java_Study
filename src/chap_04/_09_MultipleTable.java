@@ -23,6 +23,7 @@ public class _09_MultipleTable {
                 System.out.println(i + "x" + j +   " = "+ (i*j));
 
             }
+            System.out.println();
 
         }
     }
