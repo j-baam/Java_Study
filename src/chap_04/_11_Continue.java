@@ -1,7 +1,7 @@
 package chap_04;
 
 public class _11_Continue {
-    public static void main (String[] args) {
+    public static void main(String[] args) {
         // Continue
 
         // 치킨 주문 손님중에 노쇼
