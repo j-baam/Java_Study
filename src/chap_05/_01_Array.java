@@ -10,7 +10,7 @@ public class _01_Array {
 
         System.out.println(coffeeA + " 하나");
         System.out.println(coffeeB + " 하나");
-        System.out.println(coffeeC + " 하나");
+        System.out.println(coffeeC + " 하나d");
         System.out.println(coffeeD + " 하나");
         System.out.println("주세요 ");
 
