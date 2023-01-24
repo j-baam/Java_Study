@@ -21,6 +21,10 @@ public class _02_ArrayLoop {
         System.out.println("주세요");
 
         // enhanced for (for-each) 반복문
-        for (String coffee : )
+        for (String coffee :
+                coffees) {
+            System.out.println(coffee + "하나");
+        }
+        System.out.println("주세요-+++++");
     }
 }
