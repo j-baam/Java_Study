@@ -30,6 +30,7 @@ public class _03_MultiArray {
         };
 
         // A3 에 접근하려면?
-        System.out.println(seats2[0][2]);
+        System.out.println(seats2[2][2]);
+        System.out.println(seats2[2][0]);
     }
 }
